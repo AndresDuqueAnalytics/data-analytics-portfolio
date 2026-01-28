@@ -2,11 +2,7 @@
 
 I am a junior data / BI analyst, focused on using structured analysis to support business and strategic decision-making.
 
-My work emphasizes:
-- clearly defined business questions
-- transparent assumptions and limitations
-- clean data handling and documented transformations
-- communicating insights in a way stakeholders can act on
+I approach analysis by first clarifying the decision being supported, then working carefully through data preparation, validation, and communication. I prioritize correctness, traceability, and clear reasoning over complex modeling or visual polish.
 
 This portfolio contains two case studies that reflect how I think and work as an analyst.
 
@@ -55,5 +51,5 @@ SQL (SQLite), Power BI (data modeling, DAX, visuals), Excel (inspection and QA),
 ---
 
 ## Contact
-LinkedIn: (add link)  
-Email: (add email)
+LinkedIn: 
+Email: andresfde17@gmail.com
